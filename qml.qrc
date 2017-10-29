@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>2.png</file>
+        <file>ground0.png</file>
+        <file>ground2.png</file>
+        <file>particle.png</file>
+        <file>particleX.png</file>
+        <file>S.png</file>
+        <file>star.png</file>
+    </qresource>
+</RCC>
